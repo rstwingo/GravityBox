@@ -791,5 +791,25 @@
     <string name="pref_statusbar_icon_color_secondary_summary">Felülírja a gyári sárga jelerősség ikonszínt</string>
     <string name="pref_statusbar_data_activity_color_secondary_title">Másodlagos SIM adattevékenység színe</string>
     <string name="pref_statusbar_data_activity_color_secondary_summary">Beállítja a másodlagos adattevékenység jelzőikonok színét</string>
-	
+
+	  <!-- Status icon style -->
+    <string name="pref_status_icon_style_title">Állapotjelző ikon stílusa</string>
+    <string name="pref_status_icon_style_summary">Vonatkozik , mint a némítás, vibrálás, riasztás, és a többi..</string>
+    <string name="icon_style_jb">JellyBean</string>
+    <string name="icon_style_kk">KitKat</string>
+
+    <!-- HW Key Actions: Back double-tap -->
+    <string name="hwkey_back_doubletap_dialog_title">Vissza gomb dupla érintésének tevékenysége</string>
+
+    <!-- HW Key Actions: Home and Back actions -->
+    <string name="hwkey_action_home">home gomb</string>
+    <string name="hwkey_action_back">back/vissza gomb</string>
+
+    <!-- QS Tile Style -->
+    <string name="pref_qs_tile_style_title">Mozaik stílus</string>
+    <string name="pref_qs_tile_style_summary">Csak a Gravitibox által módositott mozaikok (nem érinti az eredeti/stock mozaikokat)</string>
+
+    <!-- Clear all recents bottom margin -->
+    <string name="pref_recent_clear_margin_bottom_title">Alsó margó beállítása</string>
+    
 </resources>
